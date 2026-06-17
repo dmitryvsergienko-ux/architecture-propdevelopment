@@ -10,3 +10,10 @@ desktop.ini
 
 # Временные файлы Office
 ~$*
+
+# Сертификаты/ключи пользователей Kubernetes (Task4) — не коммитить
+Task4/.users/
+*.key
+*.crt
+*.csr
+*.srl

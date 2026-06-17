@@ -1,0 +1,338 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3410 2290" font-family="Segoe UI, Arial, sans-serif">
+<rect x="0" y="0" width="3410" height="2290" fill="#ffffff"/>
+<defs><marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 z" fill="#5b6b7a"/></marker></defs>
+<rect x="570" y="1600" width="700" height="540" rx="12" fill="none" stroke="#999999" stroke-width="2.2"/>
+<rect x="1470" y="1340" width="420" height="520" rx="12" fill="none" stroke="#999999" stroke-width="2.2"/>
+<rect x="935" y="380" width="910" height="840" rx="12" fill="none" stroke="#999999" stroke-width="2.2"/>
+<rect x="2100" y="400" width="780" height="860" rx="12" fill="none" stroke="#999999" stroke-width="2.2"/>
+<rect x="520" y="370" width="2380" height="1860" rx="16" fill="none" stroke="#666666" stroke-width="2" stroke-dasharray="8 4"/>
+<text x="534" y="2216" font-size="20" font-weight="bold" fill="#333333">PropDevelopment</text>
+<rect x="2240" y="1320" width="640" height="440" rx="12" fill="none" stroke="#2E7D32" stroke-width="2.2" stroke-dasharray="8 5"/>
+<rect x="2314" y="434" width="272" height="152" rx="12" fill="none" stroke="#2E7D32" stroke-width="2.2" stroke-dasharray="8 5"/>
+<rect x="3002" y="1132" width="306" height="186" rx="12" fill="none" stroke="#2E7D32" stroke-width="2.2" stroke-dasharray="8 5"/>
+<path d="M1390,520 L1390,544 L1390,580" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1390" y="538" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[REST]</tspan></text>
+<path d="M1270,1000 L1246,1000 L740,1000 L740,1245 L740,1269" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="740" y="994" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Аутентификация менеджеров</tspan></text>
+<path d="M2550,800 L2526,800 L2440,800 L2440,990 L2110,990 L2110,1210 L740,1210 L740,1269" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="2275" y="984" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Аутентификация менеджеров</tspan></text>
+<path d="M1390,1030 L1390,1046 L1390,1070" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1390" y="1040" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[JDBC]</tspan></text>
+<path d="M2669,830 L2669,866 L2669,890" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="2669" y="860" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[JDBC]</tspan></text>
+<path d="M1358,518 L1358,542 L1358,570 L1240,570 L1240,940 L1246,940 L1270,940" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1240" y="564" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Регистрация клиента</tspan></text>
+<text x="1240" y="577" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Карточка клиентаПрофиль</tspan></text>
+<text x="1240" y="590" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">клиента</tspan></text>
+<text x="1240" y="603" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[REST]</tspan></text>
+<path d="M2450,570 L2450,594 L2230,594 L2230,610" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="2340" y="588" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[REST, WS]</tspan></text>
+<path d="M2350,670 L2940,670 L2940,565 L3000,565" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2350,670 L2374,670 L2940,670 L2940,710 L2974,710 L2998,710" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2350,670 L2374,670 L2440,670 L2440,800 L2670,800 L2670,770" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="2440" y="729" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Получение клиентских</tspan></text>
+<text x="2440" y="742" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">данных[REST]</tspan></text>
+<path d="M2230,730 L2230,746 L2230,770" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="2230" y="740" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[JDBC]</tspan></text>
+<path d="M1330,520 L1330,540 L1070,540 L1070,556 L1070,580" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1070" y="534" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Получить данные по</tspan></text>
+<text x="1070" y="547" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">объектамнедвижимости</tspan></text>
+<text x="1070" y="560" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[REST]</tspan></text>
+<path d="M1390,700 L1390,730" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1390" y="709" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[JDBC]</tspan></text>
+<path d="M1070,900 L1070,924 L1070,1500 L1521,1500 L1545,1500" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1070" y="1494" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Передача сырых данных</tspan></text>
+<text x="1070" y="1507" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[CDC]</tspan></text>
+<path d="M1070,700 L1070,756 L1070,780" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1070" y="750" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[JDBC]</tspan></text>
+<path d="M1390,1190 L1390,1214 L1390,1500 L1521,1500 L1545,1500" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1390" y="1494" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Передача сырых данных</tspan></text>
+<text x="1390" y="1507" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[CDC]</tspan></text>
+<path d="M1510,790 L1530,790 L1530,1470 L1545,1470" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1530" y="1124" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Передача сырых данных</tspan></text>
+<text x="1530" y="1137" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[CDC]</tspan></text>
+<path d="M2230,890 L2230,914 L2230,940 L2050,940 L2050,1450 L1665,1450 L1665,1470" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="2050" y="934" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Передача сырых данных</tspan></text>
+<text x="2050" y="947" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[CDC]</tspan></text>
+<path d="M2670,1010 L2670,1050 L2167,1050 L2167,1470 L1809,1470 L1785,1470" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="2167" y="1254" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Передача сырых данных</tspan></text>
+<text x="2167" y="1267" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[CDC]</tspan></text>
+<path d="M2450,240 L2450,426 L2450,450" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1665,1530 L1665,1616 L1665,1640" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1390,520 L1390,550 L1420,550 L1720,550 L1720,640 L1710,640" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M270,1710 L640,1710" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1510,460 L1970,460 L1970,490 L1970,516 L1970,540" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1970" y="484" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">РегистрацияАутентификация</tspan></text>
+<text x="1970" y="497" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[REST]</tspan></text>
+<path d="M1970,660 L1970,686 L1970,710" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2331,490 L2330,490 L1980,490 L1980,516 L1970,516 L1970,540" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2450,570 L2450,590 L2670,590 L2670,710" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="2560" y="584" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[REST]</tspan></text>
+<path d="M760,1770 L760,1816 L760,1840" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M880,1710 L1090,1710 L1090,1950" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1090" y="1704" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Аутентификация</tspan></text>
+<path d="M270,955 L270,960 L520,960" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1665,1530 L1665,1550 L930,1550 L930,1329 L884,1329 L860,1329" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="930" y="1434" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Аутентификация</tspan></text>
+<text x="930" y="1446" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">бизнес-аналитика</tspan></text>
+<path d="M270,1240 L294,1240 L520,1240" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1390,250 L1390,400" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M3018,1521 L1803,1521 L1803,1522 L1779,1522" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1510,970 L1534,970 L1550,970 L1550,640 L1534,640 L1510,640" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1550" y="799" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Публикация каталога</tspan></text>
+<text x="1550" y="812" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">объектов[Kafka]</tspan></text>
+<path d="M1710,700 L1710,730" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1510,970 L1550,970 L1550,640 L1566,640 L1590,640" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1270,640 L1260,640 L1260,710 L800,710 L800,700 L330,700 L324,700 L300,700" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="800" y="699" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">СМЭВ[SOAP]</tspan></text>
+<path d="M2450,570 L2450,594 L2450,1356 L2400,1356 L2400,1380" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="2450" y="1350" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Сервисы «Умного дома»</tspan></text>
+<text x="2450" y="1363" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[REST]</tspan></text>
+<path d="M2400,1500 L2400,1524 L2400,1566 L2400,1590" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="2400" y="1539" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[JDBC]</tspan></text>
+<path d="M2280,1440 L2256,1440 L1980,1440 L1980,1480 L1980,730 L1980,684 L1970,684 L1970,660" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1980" y="1099" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Проверка токенов</tspan></text>
+<text x="1980" y="1112" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[OIDC]</tspan></text>
+<path d="M2400,1380 L2400,1356 L2400,854 L2670,854 L2670,830" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="2400" y="848" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Привязка</tspan></text>
+<text x="2400" y="861" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">собственник↔помещение</tspan></text>
+<text x="2400" y="874" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[REST]</tspan></text>
+<path d="M2520,1440 L2544,1440 L2556,1440 L2580,1440" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="2550" y="1434" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[REST]</tspan></text>
+<path d="M2820,1428 L2844,1428 L2930,1428 L2930,1225 L2996,1225 L3020,1225" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="2930" y="1320" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Команды, списки доступа</tspan></text>
+<text x="2930" y="1334" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[HTTPS, mTLS]</tspan></text>
+<path d="M3020,1262 L2996,1262 L2970,1262 L2970,1464 L2844,1464 L2820,1464" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)" stroke-dasharray="6 4"/>
+<text x="2970" y="1357" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">События распознавания и</tspan></text>
+<text x="2970" y="1370" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">звонки</tspan></text>
+<text x="2970" y="1383" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[Webhook, HTTPS]</tspan></text>
+<path d="M2280,1650 L2256,1650 L1905,1650 L1905,1480 L1809,1480 L1809,1470 L1785,1470" fill="none" stroke="#5b6b7a" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1905" y="1474" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">Передача метаданных</tspan></text>
+<text x="1905" y="1487" font-size="11" fill="#33475b" text-anchor="middle"><tspan style="paint-order:stroke;stroke:#ffffff;stroke-width:3px;">[CDC]</tspan></text>
+<rect x="3110" y="435" width="240" height="120" rx="10" fill="#8C8496" stroke="#736782" stroke-width="1.5"/>
+<text x="3230" y="493" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Поставщик ресурсов ЖКХ</text>
+<text x="3230" y="507" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Software System]</text>
+<rect x="3070" y="460" width="240" height="120" rx="10" fill="#8C8496" stroke="#736782" stroke-width="1.5"/>
+<text x="3190" y="518" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Поставщик ресурсов ЖКХ</text>
+<text x="3190" y="532" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Software System]</text>
+<path d="M1270,1084 a120,14 0 0,0 240,0 v92 a120,14 0 0,1 -240,0 z" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<ellipse cx="1390" cy="1084" rx="120" ry="14" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1390" y="1129" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">crm-db</text>
+<text x="1390" y="1143" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: MSSQL]</text>
+<text x="1390" y="1155" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">База данных системы CRM</text>
+<rect x="1270" y="910" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1390" y="956" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">client-crm-app</text>
+<text x="1390" y="970" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: e.g. SpringBoot, ElasticSearch,Container: Dynamics CRM]</text>
+<text x="1390" y="982" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Система управления клиентскими</text>
+<text x="1390" y="994" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">данными</text>
+<rect x="2550" y="710" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="2670" y="756" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">CRM</text>
+<text x="2670" y="770" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: Container: Kotlin, Spring Boot]</text>
+<text x="2670" y="782" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Система управления данными</text>
+<text x="2670" y="794" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">собственников</text>
+<path d="M2549,904 a120,14 0 0,0 240,0 v92 a120,14 0 0,1 -240,0 z" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<ellipse cx="2669" cy="904" rx="120" ry="14" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="2669" y="943" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">crm-tenant-db</text>
+<text x="2669" y="957" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: PostgreSQL]</text>
+<text x="2669" y="969" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">База данных CRM по</text>
+<text x="2669" y="981" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">собственникам</text>
+<rect x="2110" y="610" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="2230" y="656" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">tenant-core-app</text>
+<text x="2230" y="670" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: Container: Kotlin, SpringBoot]</text>
+<text x="2230" y="682" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Приложение для предоставления</text>
+<text x="2230" y="694" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">услуг собственникам</text>
+<rect x="3030" y="480" width="240" height="120" rx="10" fill="#8C8496" stroke="#736782" stroke-width="1.5"/>
+<text x="3150" y="532" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Поставщик ресурсов ЖКХ</text>
+<text x="3150" y="546" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Software System]</text>
+<text x="3150" y="558" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">.</text>
+<rect x="2998" y="650" width="240" height="120" rx="10" fill="#8C8496" stroke="#736782" stroke-width="1.5"/>
+<text x="3118" y="702" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Платёжная система</text>
+<text x="3118" y="716" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Software System]</text>
+<text x="3118" y="728" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Провайдер онлайн-платежей</text>
+<path d="M2110,784 a120,14 0 0,0 240,0 v92 a120,14 0 0,1 -240,0 z" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<ellipse cx="2230" cy="784" rx="120" ry="14" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="2230" y="823" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">tenant-core-db</text>
+<text x="2230" y="837" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: PostgreSQL]</text>
+<text x="2230" y="849" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">База данных услуг ЖКХ по</text>
+<text x="2230" y="861" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">собственникам</text>
+<rect x="1545" y="1410" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1665" y="1456" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Хранилище данных</text>
+<text x="1665" y="1470" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: Greenplum]</text>
+<text x="1665" y="1482" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Единое хранилище данных для</text>
+<text x="1665" y="1494" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">всех систем компании</text>
+<path d="M1545,1654 a120,14 0 0,0 240,0 v92 a120,14 0 0,1 -240,0 z" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<ellipse cx="1665" cy="1654" rx="120" ry="14" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1665" y="1693" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">DWH Хранилище</text>
+<text x="1665" y="1707" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: S3]</text>
+<text x="1665" y="1719" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Физическое хранилище данных</text>
+<text x="1665" y="1731" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">DWH</text>
+<rect x="1270" y="580" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1390" y="615" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">client-mart-app</text>
+<text x="1390" y="629" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: Container: Kotlin, SpringBoot]</text>
+<text x="1390" y="641" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Приложение для:</text>
+<text x="1390" y="652" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">- предоставления информации об</text>
+<text x="1390" y="664" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">объектах недвижимости,</text>
+<text x="1390" y="676" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">- проведения онлайн-сделок</text>
+<path d="M1270,744 a120,14 0 0,0 240,0 v92 a120,14 0 0,1 -240,0 z" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<ellipse cx="1390" cy="744" rx="120" ry="14" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1390" y="778" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">client-mart-db</text>
+<text x="1390" y="791" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: PostgreSQL]</text>
+<text x="1390" y="803" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">База данных для хранения</text>
+<text x="1390" y="815" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">информации об объектах</text>
+<text x="1390" y="827" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">недвижимости и сделкам по ним</text>
+<rect x="950" y="580" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1070" y="620" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">client-mart-estate-app</text>
+<text x="1070" y="634" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: Container: Kotlin, SpringBoot]</text>
+<text x="1070" y="646" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Приложение для управления</text>
+<text x="1070" y="658" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">информацией об объектах</text>
+<text x="1070" y="670" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">недвижимости</text>
+<path d="M950,794 a120,14 0 0,0 240,0 v92 a120,14 0 0,1 -240,0 z" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<ellipse cx="1070" cy="794" rx="120" ry="14" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1070" y="833" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">client-mart-estate-db</text>
+<text x="1070" y="847" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: PostgreSQL]</text>
+<text x="1070" y="859" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">База данных объектов</text>
+<text x="1070" y="871" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">недвижимости</text>
+<rect x="1270" y="400" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1390" y="440" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Витрина продаж</text>
+<text x="1390" y="454" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: JavaScript, React]</text>
+<text x="1390" y="466" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Витрина для подбора и</text>
+<text x="1390" y="478" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">бронирования объектов</text>
+<text x="1390" y="490" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">недвижимости</text>
+<rect x="620" y="1269" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="740" y="1315" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Active Directory</text>
+<text x="740" y="1329" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: MS Active directory]</text>
+<text x="740" y="1341" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Служба каталогов, которая</text>
+<text x="740" y="1353" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">обслуживает финансовые сервисы</text>
+<rect x="970" y="1950" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1090" y="1985" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Active Directory</text>
+<text x="1090" y="1999" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: MS Active directory]</text>
+<text x="1090" y="2011" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Служба каталогов, которая</text>
+<text x="1090" y="2022" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">обслуживает прикладные</text>
+<text x="1090" y="2034" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">бизнес-системы и системы</text>
+<text x="1090" y="2046" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">обработки данных</text>
+<circle cx="170" cy="1642" r="22" fill="#083F75" stroke="#06315C" stroke-width="1.5"/>
+<rect x="94" y="1654" width="152" height="144" rx="14" fill="#083F75" stroke="#06315C" stroke-width="1.5"/>
+<text x="170" y="1718" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Бухгалтер</text>
+<text x="170" y="1732" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Person]</text>
+<text x="170" y="1744" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Ведёт бухгалтерский учёт</text>
+<circle cx="170" cy="842" r="22" fill="#083F75" stroke="#06315C" stroke-width="1.5"/>
+<rect x="94" y="854" width="152" height="144" rx="14" fill="#083F75" stroke="#06315C" stroke-width="1.5"/>
+<text x="170" y="906" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Менеджер</text>
+<text x="170" y="920" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Person]</text>
+<text x="170" y="932" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Работает с клиентами и</text>
+<text x="170" y="944" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">объектами недвижимости,</text>
+<text x="170" y="956" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">администрирует онлайн-сделки</text>
+<rect x="1850" y="540" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1970" y="586" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">auth-service-1</text>
+<text x="1970" y="600" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: Keycloak]</text>
+<text x="1970" y="612" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Сервис аутентификации</text>
+<text x="1970" y="624" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">покупателей</text>
+<path d="M1850,724 a120,14 0 0,0 240,0 v92 a120,14 0 0,1 -240,0 z" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<ellipse cx="1970" cy="724" rx="120" ry="14" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1970" y="763" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">auth-db-1</text>
+<text x="1970" y="777" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: PostgreSQL]</text>
+<text x="1970" y="789" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">База данных сервиса</text>
+<text x="1970" y="801" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">аутентификации покупателей</text>
+<rect x="2330" y="450" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="2450" y="496" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Витрина сервисов для собственников</text>
+<text x="2450" y="510" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: Mobile app(iOS, Android)]</text>
+<text x="2450" y="522" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Мобильные приложения для</text>
+<text x="2450" y="534" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">собственников</text>
+<rect x="640" y="1650" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="760" y="1702" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">accountant-service-1</text>
+<text x="760" y="1716" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: Keycloak]</text>
+<text x="760" y="1728" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Система бухгалтерского учёта</text>
+<path d="M640,1854 a120,14 0 0,0 240,0 v92 a120,14 0 0,1 -240,0 z" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<ellipse cx="760" cy="1854" rx="120" ry="14" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="760" y="1893" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">auth-db-1</text>
+<text x="760" y="1907" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: PostgreSQL]</text>
+<text x="760" y="1919" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">База данных сервиса</text>
+<text x="760" y="1931" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">аутентификации покупателей</text>
+<circle cx="170" cy="1127" r="22" fill="#083F75" stroke="#06315C" stroke-width="1.5"/>
+<rect x="94" y="1139" width="152" height="144" rx="14" fill="#083F75" stroke="#06315C" stroke-width="1.5"/>
+<text x="170" y="1186" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Бизнес-аналитик</text>
+<text x="170" y="1200" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Person]</text>
+<text x="170" y="1212" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Оптимизирует процессы и</text>
+<text x="170" y="1223" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">развивает прикладные</text>
+<text x="170" y="1235" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">бизнес-системы. Администрирует</text>
+<text x="170" y="1247" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">системы</text>
+<rect x="1350" y="280" width="80" height="80" rx="6" fill="#fdecea" stroke="#c0392b"/>
+<text x="1390" y="324" font-size="11" fill="#c0392b" text-anchor="middle">FW</text>
+<rect x="2410" y="280" width="80" height="80" rx="6" fill="#fdecea" stroke="#c0392b"/>
+<text x="2450" y="324" font-size="11" fill="#c0392b" text-anchor="middle">FW</text>
+<text x="1450" y="319" font-size="13" font-weight="bold" fill="#23527c" text-anchor="middle">Firewall</text>
+<text x="2530" y="319" font-size="13" font-weight="bold" fill="#23527c" text-anchor="middle">Firewall</text>
+<text x="2715" y="444" font-size="13" font-weight="bold" fill="#23527c" text-anchor="middle">Группа сервисов ЖКУ</text>
+<text x="1650" y="394" font-size="13" font-weight="bold" fill="#23527c" text-anchor="middle">Группа сервисов для клиентов</text>
+<circle cx="3118" cy="1453" r="22" fill="#083F75" stroke="#06315C" stroke-width="1.5"/>
+<rect x="3042" y="1465" width="152" height="144" rx="14" fill="#083F75" stroke="#06315C" stroke-width="1.5"/>
+<text x="3118" y="1523" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Аналитик BI</text>
+<text x="3118" y="1537" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Person]</text>
+<text x="3118" y="1549" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Анализирует данные и готовит</text>
+<text x="3118" y="1561" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">отчётность</text>
+<rect x="3000" y="505" width="240" height="120" rx="10" fill="#8C8496" stroke="#736782" stroke-width="1.5"/>
+<text x="3120" y="563" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Поставщик ресурсов ЖКХ</text>
+<text x="3120" y="577" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Software System]</text>
+<rect x="1590" y="580" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1710" y="620" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">client-tour-app</text>
+<text x="1710" y="634" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: Container: Kotlin, SpringBoot]</text>
+<text x="1710" y="646" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Приложение для проведения</text>
+<text x="1710" y="658" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">3D-тура по объекту</text>
+<text x="1710" y="670" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">недвижимости (онлайн-тур)</text>
+<path d="M1590,744 a120,14 0 0,0 240,0 v92 a120,14 0 0,1 -240,0 z" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<ellipse cx="1710" cy="744" rx="120" ry="14" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="1710" y="783" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">client-tour-db</text>
+<text x="1710" y="797" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: PostgreSQL]</text>
+<text x="1710" y="809" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">База данных проведения</text>
+<text x="1710" y="821" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">онлайн-тура</text>
+<rect x="60" y="640" width="240" height="120" rx="10" fill="#8C8496" stroke="#736782" stroke-width="1.5"/>
+<text x="180" y="680" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Государственные регистрационные органы</text>
+<text x="180" y="694" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Software System]</text>
+<text x="180" y="706" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Отвечают за регистрационные</text>
+<text x="180" y="718" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">действия с объектами</text>
+<text x="180" y="730" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">недвижимости</text>
+<circle cx="1390" cy="92" r="22" fill="#083F75" stroke="#06315C" stroke-width="1.5"/>
+<rect x="1314" y="104" width="152" height="144" rx="14" fill="#083F75" stroke="#06315C" stroke-width="1.5"/>
+<text x="1390" y="168" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Клиент</text>
+<text x="1390" y="182" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Person]</text>
+<text x="1390" y="194" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Клиент</text>
+<circle cx="2450" cy="82" r="22" fill="#083F75" stroke="#06315C" stroke-width="1.5"/>
+<rect x="2374" y="94" width="152" height="144" rx="14" fill="#083F75" stroke="#06315C" stroke-width="1.5"/>
+<text x="2450" y="158" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Собственник</text>
+<text x="2450" y="172" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Person]</text>
+<text x="2450" y="184" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Клиент</text>
+<text x="2440" y="1342" font-size="13" font-weight="bold" fill="#2E7D32" text-anchor="middle">Сервисы «Умного дома» (новое)</text>
+<text x="820" y="2154" font-size="13" font-weight="bold" fill="#2E7D32" text-anchor="middle">Зелёный пунктир — новые и</text>
+<text x="820" y="2169" font-size="13" font-weight="bold" fill="#2E7D32" text-anchor="middle">изменённые элементы (Задание</text>
+<text x="820" y="2184" font-size="13" font-weight="bold" fill="#2E7D32" text-anchor="middle">3)</text>
+<rect x="2280" y="1380" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="2400" y="1415" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">smart-home-app</text>
+<text x="2400" y="1429" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: Kotlin, Spring Boot]</text>
+<text x="2400" y="1441" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Оркестрация сервисов «Умного</text>
+<text x="2400" y="1452" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">дома»: списки доступа,</text>
+<text x="2400" y="1464" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">ретрансляция команд открытия,</text>
+<text x="2400" y="1476" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">приём событий</text>
+<rect x="2580" y="1380" width="240" height="120" rx="10" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="2700" y="1409" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">partner-api-gateway</text>
+<text x="2700" y="1423" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: API Gateway]</text>
+<text x="2700" y="1435" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Единая точка интеграции с</text>
+<text x="2700" y="1446" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">партнёром: аутентификация,</text>
+<text x="2700" y="1458" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">авторизация, rate-limiting,</text>
+<text x="2700" y="1470" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">фильтрация и логирование</text>
+<text x="2700" y="1482" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">данных</text>
+<path d="M2280,1604 a120,14 0 0,0 240,0 v92 a120,14 0 0,1 -240,0 z" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<ellipse cx="2400" cy="1604" rx="120" ry="14" fill="#23A2D9" stroke="#0E7DAD" stroke-width="1.5"/>
+<text x="2400" y="1638" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">smart-home-db</text>
+<text x="2400" y="1651" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Container: PostgreSQL]</text>
+<text x="2400" y="1663" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Реестр устройств, политики</text>
+<text x="2400" y="1675" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">доступа, журнал событий (без</text>
+<text x="2400" y="1687" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">сырой биометрии)</text>
+<rect x="3020" y="1150" width="270" height="150" rx="10" fill="#8C8496" stroke="#736782" stroke-width="1.5"/>
+<text x="3155" y="1194" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Партнёрская платформа «Умный дом»</text>
+<text x="3155" y="1208" font-size="10" font-weight="normal" fill="#ffffff" text-anchor="middle">[Software System]</text>
+<text x="3155" y="1220" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">Сервисы домофона и шлагбаума:</text>
+<text x="3155" y="1231" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">распознавание лиц и</text>
+<text x="3155" y="1243" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">автономеров, хранение</text>
+<text x="3155" y="1255" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">биометрии, управление</text>
+<text x="3155" y="1267" font-size="9" font-weight="normal" fill="#E6E6E6" text-anchor="middle">устройствами</text>
+</svg>
