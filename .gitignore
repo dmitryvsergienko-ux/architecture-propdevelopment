@@ -1,0 +1,12 @@
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Редакторы / IDE
+.vscode/
+.idea/
+*.swp
+
+# Временные файлы Office
+~$*
