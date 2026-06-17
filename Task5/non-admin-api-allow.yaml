@@ -1,0 +1,88 @@
+# Задание 5 — управление трафиком внутри кластера Kubernetes.
+#
+# Разделение трафика между UI- и API-сервисами в одном namespace:
+#   * front-end        <-> back-end-api          — разрешено в обе стороны
+#   * admin-front-end  <-> admin-back-end-api     — разрешено в обе стороны
+#   * любой другой трафик (в т.ч. между admin/non-admin и от посторонних подов) — запрещён
+#
+# Механизм: default-deny на весь входящий трафик + точечные разрешения по меткам role.
+# Требуется CNI с поддержкой NetworkPolicy (например, Calico). Применение:
+#   kubectl apply -f non-admin-api-allow.yaml
+---
+# 1) Базовый запрет: ни один под не принимает входящий трафик, пока он не разрешён явно.
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: default-deny-ingress
+spec:
+  podSelector: {}
+  policyTypes:
+    - Ingress
+---
+# 2) back-end-api принимает трафик только от front-end.
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: allow-front-end-to-back-end-api
+spec:
+  podSelector:
+    matchLabels:
+      role: back-end-api
+  policyTypes:
+    - Ingress
+  ingress:
+    - from:
+        - podSelector:
+            matchLabels:
+              role: front-end
+---
+# 3) front-end принимает трафик только от back-end-api (обратное направление пары).
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: allow-back-end-api-to-front-end
+spec:
+  podSelector:
+    matchLabels:
+      role: front-end
+  policyTypes:
+    - Ingress
+  ingress:
+    - from:
+        - podSelector:
+            matchLabels:
+              role: back-end-api
+---
+# 4) admin-back-end-api принимает трафик только от admin-front-end.
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: allow-admin-front-end-to-admin-back-end-api
+spec:
+  podSelector:
+    matchLabels:
+      role: admin-back-end-api
+  policyTypes:
+    - Ingress
+  ingress:
+    - from:
+        - podSelector:
+            matchLabels:
+              role: admin-front-end
+---
+# 5) admin-front-end принимает трафик только от admin-back-end-api (обратное направление пары).
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: allow-admin-back-end-api-to-admin-front-end
+spec:
+  podSelector:
+    matchLabels:
+      role: admin-front-end
+  policyTypes:
+    - Ingress
+  ingress:
+    - from:
+        - podSelector:
+            matchLabels:
+              role: admin-back-end-api
