@@ -1,0 +1,311 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2700 1574" font-family="Segoe UI, Arial, sans-serif">
+  <defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L6.5,3 L0,6 z" fill="#9AA7B5"/></marker></defs>
+  <rect x="0" y="0" width="2700" height="1574" fill="#FFFFFF"/>
+  <path d="M1450.0,797.0 C1470.0,797.0 1470.0,387.0 1490.0,387.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1680.0,387.0 C1700.0,387.0 1700.0,387.0 1720.0,387.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1990.0,387.0 C2010.0,387.0 2010.0,87.0 2030.0,87.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M2270.0,87.0 C2290.0,87.0 2290.0,87.0 2310.0,87.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1990.0,387.0 C2010.0,387.0 2010.0,237.0 2030.0,237.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M2270.0,237.0 C2290.0,237.0 2290.0,237.0 2310.0,237.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1990.0,387.0 C2010.0,387.0 2010.0,387.0 2030.0,387.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M2270.0,387.0 C2290.0,387.0 2290.0,387.0 2310.0,387.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1990.0,387.0 C2010.0,387.0 2010.0,537.0 2030.0,537.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M2270.0,537.0 C2290.0,537.0 2290.0,537.0 2310.0,537.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1990.0,387.0 C2010.0,387.0 2010.0,687.0 2030.0,687.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M2270.0,687.0 C2290.0,687.0 2290.0,687.0 2310.0,687.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1450.0,797.0 C1470.0,797.0 1470.0,1207.0 1490.0,1207.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1680.0,1207.0 C1700.0,1207.0 1700.0,1206.5 1720.0,1206.5" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1990.0,1206.5 C2010.0,1206.5 2010.0,907.0 2030.0,907.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M2270.0,907.0 C2290.0,907.0 2290.0,907.0 2310.0,907.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1990.0,1206.5 C2010.0,1206.5 2010.0,1057.0 2030.0,1057.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M2270.0,1057.0 C2290.0,1057.0 2290.0,1057.0 2310.0,1057.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1990.0,1206.5 C2010.0,1206.5 2010.0,1207.0 2030.0,1207.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M2270.0,1207.0 C2290.0,1207.0 2290.0,1207.0 2310.0,1207.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1990.0,1206.5 C2010.0,1206.5 2010.0,1357.0 2030.0,1357.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M2270.0,1357.0 C2290.0,1357.0 2290.0,1357.0 2310.0,1357.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1990.0,1206.5 C2010.0,1206.5 2010.0,1507.0 2030.0,1507.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M2270.0,1507.0 C2290.0,1507.0 2290.0,1507.0 2310.0,1507.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1250.0,797.0 C1230.0,797.0 1230.0,387.0 1210.0,387.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1020.0,387.0 C1000.0,387.0 1000.0,386.5 980.0,386.5" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M710.0,386.5 C690.0,386.5 690.0,87.0 670.0,87.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M430.0,87.0 C410.0,87.0 410.0,87.0 390.0,87.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M710.0,386.5 C690.0,386.5 690.0,237.0 670.0,237.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M430.0,237.0 C410.0,237.0 410.0,237.0 390.0,237.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M710.0,386.5 C690.0,386.5 690.0,387.0 670.0,387.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M430.0,387.0 C410.0,387.0 410.0,387.0 390.0,387.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M710.0,386.5 C690.0,386.5 690.0,537.0 670.0,537.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M430.0,537.0 C410.0,537.0 410.0,537.0 390.0,537.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M710.0,386.5 C690.0,386.5 690.0,687.0 670.0,687.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M430.0,687.0 C410.0,687.0 410.0,687.0 390.0,687.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1250.0,797.0 C1230.0,797.0 1230.0,1207.0 1210.0,1207.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M1020.0,1207.0 C1000.0,1207.0 1000.0,1207.0 980.0,1207.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M710.0,1207.0 C690.0,1207.0 690.0,907.0 670.0,907.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M430.0,907.0 C410.0,907.0 410.0,907.0 390.0,907.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M710.0,1207.0 C690.0,1207.0 690.0,1057.0 670.0,1057.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M430.0,1057.0 C410.0,1057.0 410.0,1057.0 390.0,1057.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M710.0,1207.0 C690.0,1207.0 690.0,1207.0 670.0,1207.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M430.0,1207.0 C410.0,1207.0 410.0,1207.0 390.0,1207.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M710.0,1207.0 C690.0,1207.0 690.0,1357.0 670.0,1357.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M430.0,1357.0 C410.0,1357.0 410.0,1357.0 390.0,1357.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M710.0,1207.0 C690.0,1207.0 690.0,1507.0 670.0,1507.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <path d="M430.0,1507.0 C410.0,1507.0 410.0,1507.0 390.0,1507.0" fill="none" stroke="#9AA7B5" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <rect x="1250" y="759" width="200" height="76" rx="10" ry="10" fill="#1F3864" stroke="#0B1F3A" stroke-width="1.5"/>
+  <text x="1350.0" y="802.2" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+    <tspan x="1350.0" dy="0.0">Безопасность данных</tspan>
+  </text>
+  <rect x="1490" y="357" width="190" height="60" rx="10" ry="10" fill="#2E5CB8" stroke="#1F3F80" stroke-width="1.5"/>
+  <text x="1585.0" y="391.2" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+    <tspan x="1585.0" dy="0.0">Публичные данные</tspan>
+  </text>
+  <rect x="1720" y="339" width="270" height="96" rx="10" ry="10" fill="#EAF0FB" stroke="#9DB7E0" stroke-width="1.5"/>
+  <text x="1732.0" y="360.9" font-size="11" font-weight="normal" fill="#16243B" text-anchor="start">
+    <tspan x="1732.0" dy="0.0">• Каталог объектов на онлайн-витрине:</tspan>
+    <tspan x="1732.0" dy="14.9">характеристики, планировки, цены, фото,</tspan>
+    <tspan x="1732.0" dy="14.9">статус</tspan>
+    <tspan x="1732.0" dy="14.9">• Демонстрационные 3D-туры онлайн-тура</tspan>
+    <tspan x="1732.0" dy="14.9">• Публичные объявления и новости УК</tspan>
+  </text>
+  <rect x="2030" y="60" width="240" height="54" rx="10" ry="10" fill="#D5E8D4" stroke="#82B366" stroke-width="1.5"/>
+  <text x="2150.0" y="90.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="2150.0" dy="0.0">Утечка данных — незначительный</tspan>
+  </text>
+  <rect x="2310" y="60" width="350" height="54" rx="10" ry="10" fill="#FBFBFB" stroke="#82B366" stroke-width="1.5"/>
+  <text x="2322.0" y="83.5" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="2322.0" dy="0.0">Данные предназначены для публичного доступа — ущерба от</tspan>
+    <tspan x="2322.0" dy="13.5">раскрытия нет</tspan>
+  </text>
+  <rect x="2030" y="210" width="240" height="54" rx="10" ry="10" fill="#D5E8D4" stroke="#82B366" stroke-width="1.5"/>
+  <text x="2150.0" y="240.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="2150.0" dy="0.0">Потеря данных — незначительный</tspan>
+  </text>
+  <rect x="2310" y="210" width="350" height="54" rx="10" ry="10" fill="#FBFBFB" stroke="#82B366" stroke-width="1.5"/>
+  <text x="2322.0" y="233.5" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="2322.0" dy="0.0">Каталог воспроизводим из систем-источников</tspan>
+    <tspan x="2322.0" dy="13.5">(client-mart-db) и резервных копий</tspan>
+  </text>
+  <rect x="2030" y="360" width="240" height="54" rx="10" ry="10" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2150.0" y="390.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="2150.0" dy="0.0">Искажение данных — значительный</tspan>
+  </text>
+  <rect x="2310" y="360" width="350" height="54" rx="10" ry="10" fill="#FBFBFB" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2322.0" y="383.5" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="2322.0" dy="0.0">Подмена цен/статусов/характеристик на витрине вводит</tspan>
+    <tspan x="2322.0" dy="13.5">клиентов в заблуждение — репутационный и юридический риск</tspan>
+  </text>
+  <rect x="2030" y="510" width="240" height="54" rx="10" ry="10" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2150.0" y="540.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="2150.0" dy="0.0">Некачественные данные — значительный</tspan>
+  </text>
+  <rect x="2310" y="510" width="350" height="54" rx="10" ry="10" fill="#FBFBFB" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2322.0" y="533.5" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="2322.0" dy="0.0">Неактуальный каталог (проданный объект показан доступным,</tspan>
+    <tspan x="2322.0" dy="13.5">неверная цена) снижает доверие и конверсию</tspan>
+  </text>
+  <rect x="2030" y="660" width="240" height="54" rx="10" ry="10" fill="#D5E8D4" stroke="#82B366" stroke-width="1.5"/>
+  <text x="2150.0" y="683.1" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="2150.0" dy="0.0">Обесценивание данных —</tspan>
+    <tspan x="2150.0" dy="14.9">незначительный</tspan>
+  </text>
+  <rect x="2310" y="660" width="350" height="54" rx="10" ry="10" fill="#FBFBFB" stroke="#82B366" stroke-width="1.5"/>
+  <text x="2322.0" y="690.2" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="2322.0" dy="0.0">Публичные данные не теряют ценность от широкого доступа</tspan>
+  </text>
+  <rect x="1490" y="1177" width="190" height="60" rx="10" ry="10" fill="#2E5CB8" stroke="#1F3F80" stroke-width="1.5"/>
+  <text x="1585.0" y="1211.2" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+    <tspan x="1585.0" dy="0.0">Внутренние данные</tspan>
+  </text>
+  <rect x="1720" y="1144" width="270" height="125" rx="10" ry="10" fill="#EAF0FB" stroke="#9DB7E0" stroke-width="1.5"/>
+  <text x="1732.0" y="1165.5" font-size="11" font-weight="normal" fill="#16243B" text-anchor="start">
+    <tspan x="1732.0" dy="0.0">• Себестоимость и внутренний статус</tspan>
+    <tspan x="1732.0" dy="14.9">фонда недвижимости</tspan>
+    <tspan x="1732.0" dy="14.9">• Планы и история ремонта (текущий и</tspan>
+    <tspan x="1732.0" dy="14.9">капитальный)</tspan>
+    <tspan x="1732.0" dy="14.9">• Операционные данные менеджеров</tspan>
+    <tspan x="1732.0" dy="14.9">(воронка продаж)</tspan>
+    <tspan x="1732.0" dy="14.9">• Агрегированные отчёты и витрины BI</tspan>
+  </text>
+  <rect x="2030" y="880" width="240" height="54" rx="10" ry="10" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2150.0" y="910.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="2150.0" dy="0.0">Утечка данных — значительный</tspan>
+  </text>
+  <rect x="2310" y="880" width="350" height="54" rx="10" ry="10" fill="#FBFBFB" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2322.0" y="903.5" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="2322.0" dy="0.0">Раскрытие себестоимости/фонда/планов даёт преимущество</tspan>
+    <tspan x="2322.0" dy="13.5">конкурентам; не ПДн — ущерб ограничен коммерческим</tspan>
+  </text>
+  <rect x="2030" y="1030" width="240" height="54" rx="10" ry="10" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2150.0" y="1060.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="2150.0" dy="0.0">Потеря данных — значительный</tspan>
+  </text>
+  <rect x="2310" y="1029" width="350" height="56" rx="10" ry="10" fill="#FBFBFB" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2322.0" y="1046.8" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="2322.0" dy="0.0">Потеря истории ремонта и операционных данных нарушает</tspan>
+    <tspan x="2322.0" dy="13.5">обязательства перед собственниками; восстановление</tspan>
+    <tspan x="2322.0" dy="13.5">частичное</tspan>
+  </text>
+  <rect x="2030" y="1180" width="240" height="54" rx="10" ry="10" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2150.0" y="1210.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="2150.0" dy="0.0">Искажение данных — значительный</tspan>
+  </text>
+  <rect x="2310" y="1180" width="350" height="54" rx="10" ry="10" fill="#FBFBFB" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2322.0" y="1203.5" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="2322.0" dy="0.0">Искажённые планы/история работ ведут к ошибочным решениям</tspan>
+    <tspan x="2322.0" dy="13.5">и срыву обязательств (напр., неверная история капремонта)</tspan>
+  </text>
+  <rect x="2030" y="1330" width="240" height="54" rx="10" ry="10" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2150.0" y="1360.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="2150.0" dy="0.0">Некачественные данные — значительный</tspan>
+  </text>
+  <rect x="2310" y="1329" width="350" height="56" rx="10" ry="10" fill="#FBFBFB" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2322.0" y="1346.8" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="2322.0" dy="0.0">Несколько несинхронизированных точек регистрации и</tspan>
+    <tspan x="2322.0" dy="13.5">отсутствие контроля потоков → дубликаты и противоречия</tspan>
+    <tspan x="2322.0" dy="13.5">между системами</tspan>
+  </text>
+  <rect x="2030" y="1480" width="240" height="54" rx="10" ry="10" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2150.0" y="1510.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="2150.0" dy="0.0">Обесценивание данных — значительный</tspan>
+  </text>
+  <rect x="2310" y="1479" width="350" height="56" rx="10" ry="10" fill="#FBFBFB" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="2322.0" y="1496.8" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="2322.0" dy="0.0">Без управления потоками и каталогизации данные деградируют</tspan>
+    <tspan x="2322.0" dy="13.5">и теряют пригодность для BI/ML — блокирует новые</tspan>
+    <tspan x="2322.0" dy="13.5">data-продукты</tspan>
+  </text>
+  <rect x="1020" y="357" width="190" height="60" rx="10" ry="10" fill="#2E5CB8" stroke="#1F3F80" stroke-width="1.5"/>
+  <text x="1115.0" y="391.2" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+    <tspan x="1115.0" dy="0.0">Конфиденциальные данные</tspan>
+  </text>
+  <rect x="710" y="309" width="270" height="155" rx="10" ry="10" fill="#EAF0FB" stroke="#9DB7E0" stroke-width="1.5"/>
+  <text x="722.0" y="330.7" font-size="11" font-weight="normal" fill="#16243B" text-anchor="start">
+    <tspan x="722.0" dy="0.0">• ПДн клиентов: ФИО, телефон, email,</tspan>
+    <tspan x="722.0" dy="14.9">расширенная форма (паспортные данные)</tspan>
+    <tspan x="722.0" dy="14.9">• ПДн собственников</tspan>
+    <tspan x="722.0" dy="14.9">• Данные онлайн-сделок: договоры,</tspan>
+    <tspan x="722.0" dy="14.9">документы для госорганов (СМЭВ)</tspan>
+    <tspan x="722.0" dy="14.9">• Данные ЖКУ: лицевые счета, начисления,</tspan>
+    <tspan x="722.0" dy="14.9">платежи</tspan>
+    <tspan x="722.0" dy="14.9">• Данные CRM (клиенты и собственники)</tspan>
+    <tspan x="722.0" dy="14.9">• Данные бухгалтерского учёта</tspan>
+  </text>
+  <rect x="430" y="60" width="240" height="54" rx="10" ry="10" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+  <text x="550.0" y="90.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="550.0" dy="0.0">Утечка данных — критический</tspan>
+  </text>
+  <rect x="40" y="59" width="350" height="56" rx="10" ry="10" fill="#FBFBFB" stroke="#B85450" stroke-width="1.5"/>
+  <text x="52.0" y="76.8" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="52.0" dy="0.0">ПДн (152-ФЗ), платёжные и сделочные данные; нет изоляции</tspan>
+    <tspan x="52.0" dy="13.5">(чужие ФИО в ЛК, партнёр УК видит данные чужой УК), API</tspan>
+    <tspan x="52.0" dy="13.5">без политик → массовая утечка, штрафы, репутация</tspan>
+  </text>
+  <rect x="430" y="210" width="240" height="54" rx="10" ry="10" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="550.0" y="240.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="550.0" dy="0.0">Потеря данных — значительный</tspan>
+  </text>
+  <rect x="40" y="209" width="350" height="56" rx="10" ry="10" fill="#FBFBFB" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="52.0" y="226.8" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="52.0" dy="0.0">Потеря договоров сделок/лицевых счетов/бухгалтерии =</tspan>
+    <tspan x="52.0" dy="13.5">юридические и финансовые последствия; смягчается резервным</tspan>
+    <tspan x="52.0" dy="13.5">копированием</tspan>
+  </text>
+  <rect x="430" y="360" width="240" height="54" rx="10" ry="10" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+  <text x="550.0" y="390.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="550.0" dy="0.0">Искажение данных — критический</tspan>
+  </text>
+  <rect x="40" y="360" width="350" height="54" rx="10" ry="10" fill="#FBFBFB" stroke="#B85450" stroke-width="1.5"/>
+  <text x="52.0" y="383.5" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="52.0" dy="0.0">Искажение данных сделки/начислений ЖКУ/бухучёта = прямой</tspan>
+    <tspan x="52.0" dy="13.5">финансовый и юридический ущерб, споры, неверные платежи</tspan>
+  </text>
+  <rect x="430" y="510" width="240" height="54" rx="10" ry="10" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="550.0" y="540.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="550.0" dy="0.0">Некачественные данные — значительный</tspan>
+  </text>
+  <rect x="40" y="510" width="350" height="54" rx="10" ry="10" fill="#FBFBFB" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="52.0" y="533.5" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="52.0" dy="0.0">Дубли клиентов из-за нескольких точек регистрации,</tspan>
+    <tspan x="52.0" dy="13.5">рассинхронизация ПДн → ошибки в ЛК и неверные начисления</tspan>
+  </text>
+  <rect x="430" y="660" width="240" height="54" rx="10" ry="10" fill="#D5E8D4" stroke="#82B366" stroke-width="1.5"/>
+  <text x="550.0" y="683.1" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="550.0" dy="0.0">Обесценивание данных —</tspan>
+    <tspan x="550.0" dy="14.9">незначительный</tspan>
+  </text>
+  <rect x="40" y="660" width="350" height="54" rx="10" ry="10" fill="#FBFBFB" stroke="#82B366" stroke-width="1.5"/>
+  <text x="52.0" y="683.5" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="52.0" dy="0.0">Для ПДн доминируют утечка и искажение; падение</tspan>
+    <tspan x="52.0" dy="13.5">бизнес-ценности второстепенно</tspan>
+  </text>
+  <rect x="1020" y="1177" width="190" height="60" rx="10" ry="10" fill="#2E5CB8" stroke="#1F3F80" stroke-width="1.5"/>
+  <text x="1115.0" y="1211.2" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+    <tspan x="1115.0" dy="0.0">Секретные данные</tspan>
+  </text>
+  <rect x="710" y="1137" width="270" height="140" rx="10" ry="10" fill="#EAF0FB" stroke="#9DB7E0" stroke-width="1.5"/>
+  <text x="722.0" y="1158.6" font-size="11" font-weight="normal" fill="#16243B" text-anchor="start">
+    <tspan x="722.0" dy="0.0">• Учётные данные и секреты</tspan>
+    <tspan x="722.0" dy="14.9">аутентификации: пароли/хэши, токены</tspan>
+    <tspan x="722.0" dy="14.9">(Keycloak)</tspan>
+    <tspan x="722.0" dy="14.9">• Учётные записи Active Directory</tspan>
+    <tspan x="722.0" dy="14.9">• Ключи и секреты интеграций: СМЭВ,</tspan>
+    <tspan x="722.0" dy="14.9">платёжная система, API УК</tspan>
+    <tspan x="722.0" dy="14.9">• Команды управления «Умным домом»:</tspan>
+    <tspan x="722.0" dy="14.9">замок квартиры, автоматика</tspan>
+  </text>
+  <rect x="430" y="880" width="240" height="54" rx="10" ry="10" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+  <text x="550.0" y="910.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="550.0" dy="0.0">Утечка данных — критический</tspan>
+  </text>
+  <rect x="40" y="872" width="350" height="70" rx="10" ry="10" fill="#FBFBFB" stroke="#B85450" stroke-width="1.5"/>
+  <text x="52.0" y="890.0" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="52.0" dy="0.0">Компрометация паролей/токенов/ключей → захват учёток,</tspan>
+    <tspan x="52.0" dy="13.5">обход аутентификации, доступ ко всем системам и к</tspan>
+    <tspan x="52.0" dy="13.5">управлению умным домом (замок квартиры) — угроза данным и</tspan>
+    <tspan x="52.0" dy="13.5">физической безопасности</tspan>
+  </text>
+  <rect x="430" y="1030" width="240" height="54" rx="10" ry="10" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="550.0" y="1060.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="550.0" dy="0.0">Потеря данных — значительный</tspan>
+  </text>
+  <rect x="40" y="1029" width="350" height="56" rx="10" ry="10" fill="#FBFBFB" stroke="#D6B656" stroke-width="1.5"/>
+  <text x="52.0" y="1046.8" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="52.0" dy="0.0">Большинство секретов ротируются, но потеря ключа</tspan>
+    <tspan x="52.0" dy="13.5">шифрования резервных копий = безвозвратная потеря</tspan>
+    <tspan x="52.0" dy="13.5">зашифрованных данных</tspan>
+  </text>
+  <rect x="430" y="1180" width="240" height="54" rx="10" ry="10" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+  <text x="550.0" y="1210.6" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="550.0" dy="0.0">Искажение данных — критический</tspan>
+  </text>
+  <rect x="40" y="1179" width="350" height="56" rx="10" ry="10" fill="#FBFBFB" stroke="#B85450" stroke-width="1.5"/>
+  <text x="52.0" y="1196.8" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="52.0" dy="0.0">Подмена прав/ролей в AD/ACL или несанкционированные</tspan>
+    <tspan x="52.0" dy="13.5">команды умному дому (отпереть замок) = захват доступа и</tspan>
+    <tspan x="52.0" dy="13.5">угроза физической безопасности и имуществу</tspan>
+  </text>
+  <rect x="430" y="1330" width="240" height="54" rx="10" ry="10" fill="#D5E8D4" stroke="#82B366" stroke-width="1.5"/>
+  <text x="550.0" y="1353.2" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="550.0" dy="0.0">Некачественные данные —</tspan>
+    <tspan x="550.0" dy="14.9">незначительный</tspan>
+  </text>
+  <rect x="40" y="1330" width="350" height="54" rx="10" ry="10" fill="#FBFBFB" stroke="#82B366" stroke-width="1.5"/>
+  <text x="52.0" y="1353.5" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="52.0" dy="0.0">К ключам/учёткам понятие «качество данных» слабо применимо</tspan>
+    <tspan x="52.0" dy="13.5">(валидны/невалидны)</tspan>
+  </text>
+  <rect x="430" y="1480" width="240" height="54" rx="10" ry="10" fill="#D5E8D4" stroke="#82B366" stroke-width="1.5"/>
+  <text x="550.0" y="1503.2" font-size="11" font-weight="bold" fill="#1A1A1A" text-anchor="middle">
+    <tspan x="550.0" dy="0.0">Обесценивание данных —</tspan>
+    <tspan x="550.0" dy="14.9">незначительный</tspan>
+  </text>
+  <rect x="40" y="1480" width="350" height="54" rx="10" ry="10" fill="#FBFBFB" stroke="#82B366" stroke-width="1.5"/>
+  <text x="52.0" y="1510.2" font-size="10" font-weight="normal" fill="#333333" text-anchor="start">
+    <tspan x="52.0" dy="0.0">Секреты подлежат ротации; обесценивание — не ключевой риск</tspan>
+  </text>
+  <text x="40" y="25" font-size="13" font-weight="bold" fill="#333333">Оценка риска:</text>
+  <rect x="145" y="14" width="15" height="15" rx="3" fill="#D5E8D4" stroke="#82B366"/>
+  <text x="165" y="26" font-size="13" fill="#333333">незначительный</text>
+  <rect x="315" y="14" width="15" height="15" rx="3" fill="#FFF2CC" stroke="#D6B656"/>
+  <text x="335" y="26" font-size="13" fill="#333333">значительный</text>
+  <rect x="469" y="14" width="15" height="15" rx="3" fill="#F8CECC" stroke="#B85450"/>
+  <text x="489" y="26" font-size="13" fill="#333333">критический</text>
+</svg>
